@@ -4,8 +4,8 @@ Rapidamente construa o ambiente de estudos com o Docker e docker-compose.
 
 ## Dependências
 
-- Docker Compose version 
-- Docker version 
+- Docker Compose 
+- Docker 
 
 ## Como usar
 
