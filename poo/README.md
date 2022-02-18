@@ -13,9 +13,18 @@ Rapidamente construa o ambiente de estudos com o Docker e docker-compose.
 # O comando abaixo inicia o container
 # Inicia o bash dentro do container
 
-docker-compose exec openjdk bash
+docker-compose run openjdk bash
 ```
 - Dentro do container você poderá executar o javac e java dos arquivos criados na pasta.
+
+### Executando exemplo
+```
+docker-compose run openjdk bash
+cd Hello\ World/
+javac HelloWorld.java
+java HelloWorld.java
+```
+
 
 ## Explicando
 ### docker-compose.yml
