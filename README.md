@@ -1,7 +1,7 @@
 # Ambientes de estudo das disciplinas dockerizados
 
-A maioria das discplinsa do curso de Sistemas para Internet exige a instalação de servidores e SDKs das linguagens de programação lecionados no curso.
-Em algum momento as instalações acabam sendo processos bem destrutivos ou apenas repetitivos.
+A maioria das disciplinas do curso de Sistemas para Internet do IFPB exige a instalação de servidores e SDKs das linguagens de programação lecionados no curso.
+Em algum momento as instalações acabam sendo processos bem destrutivos ou apenas repetitivas.
 Então a ideia é não ter que instalar nada na sua máquina virtual e sim dentro de containers.
 
 
