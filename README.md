@@ -14,3 +14,8 @@ Os containers executam como processos compartilhando os recursos do host.
 Para alguns o uso disso pode ser detrimental, já que pode roubar o conhecimento de configurar essas coisas manualmente, mas para quem quer economizar tempo pode ser útil.
 
 Sintam-se avontade para solicitar um ambiente ou tirar dúvidas.
+
+
+## Como usar
+
+Dentro da pasta de cada discplina existe o arquivo README.md explicando como poderá ser utilizado para o desenvolvimento das atividades.
