@@ -9,7 +9,7 @@ services:
     ports:
       - "8081:80"
   db:
-    image: postgres
+    build: .
     ports:
       - "8001:5432"
     environment:
