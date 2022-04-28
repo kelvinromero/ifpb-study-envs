@@ -1,7 +1,7 @@
 # A Debian distro with John the Ripper installed.
 FROM debian:jessie
 
-RUN apt-get update && apt-get install -y john vim
+RUN apt-get update && apt-get install -y john vim ccrypt
 
 RUN adduser --disabled-password --gecos "" teste1
 RUN adduser --disabled-password --gecos "" teste2
